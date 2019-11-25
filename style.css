@@ -1,8 +1,2 @@
 /* WCMSP 2020 Stylesheet */
 
-.entry-header { width: 100%; }
-
-body:not(.has-sidebar):not(.page-one-column) .page-header, body.has-sidebar.error404 #primary .page-header, body.page-two-column:not(.archive) #primary .entry-header, body.page-two-column.archive:not(.has-sidebar) #primary .page-header {
-    float: left;
-    width: 100%;
-}
