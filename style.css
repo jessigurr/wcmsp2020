@@ -2,6 +2,3 @@
 /* WCMSP 2020 Stylesheet */
 
 .entry-header { display: none !important; }
-
-@media screen and (min-width: 48em)
-body:not(.has-sidebar):not(.page-one-column) .page-header, body.has-sidebar.error404 #primary .page-header, body.page-two-column:not(.archive) #primary .entry-header, body.page-two-column.archive:not(.has-sidebar) #primary .page-header { display: none !important; }
